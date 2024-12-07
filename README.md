@@ -110,5 +110,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgments
 
-- The dataset is sourced from [Video Game Sales Dataset](https://example-dataset-link.com).
+- The dataset is sourced from [Video Game Sales Dataset](https://github.com/bukkybyte/video_games_machine_learning.git).
 - Special thanks to contributors and the open-source community.
